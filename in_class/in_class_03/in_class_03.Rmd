@@ -135,6 +135,10 @@ covid_maryland_august_case_rate
 
 ```{r}
 
+covid_virginia_august_rate <- covid_county_august_case_rate %>%
+    filter(state == "Virginia")
+
+covid_virginia_august_rate
 ```
 
 The lab will review a bit more on filtering. 
