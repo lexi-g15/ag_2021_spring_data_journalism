@@ -98,7 +98,7 @@ Though there are exceptions, you typically need to install a package once -- the
 
 ```{r}
 # Install the tidyverse
-install.packages('tidyverse')
+# install.packages('tidyverse')
 ```
 
 **Details in Video**: A review of what happens when you install an R package.
